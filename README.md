@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Prashani Somawardena.
-- 👀 I’m interested in UI / UX Desiging and Web Development
-- 🌱 I’m currently learning React JS
+
 
 
 <!---
